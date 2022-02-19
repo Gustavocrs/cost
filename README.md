@@ -1,4 +1,4 @@
-<h1>Testimonials Grid</h1>
+<h1>Cost</h1>
 
 <img src="https://img.shields.io/badge/STATUS%20-Em%20contru%C3%A7%C3%A3o-yellow"/>
 
