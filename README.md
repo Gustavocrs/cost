@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/STATUS%20-Em%20contru%C3%A7%C3%A3o-yellow"/>
 
 <h3>Descrição do projeto</h3>
-<p>Projeto realizado como treinamento em React do canal Hora de Codar, no Youtube</p>
+<p>Projeto realizado como treinamento em React do canal Hora de Codar, no Youtube.</p>
 
 <h3>Acesse o projeto</h3><a href="https://cost-seven.vercel.app/">Clique Aqui</a> 
 
